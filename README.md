@@ -6,7 +6,7 @@ That's the meaning of this repository, it's useful just to me to avoid repeating
 
 ## Cristina (2018)
 
-Cristina had a really basic knowledge of CSS at the time and my goal was to introduce her to the modern web design world. I recommended her to read:
+Cristina had a basic knowledge of CSS at the time and my goal was to introduce her to the modern web design world. I recommended her to read:
 
 - An introduction to [web design](https://resilientwebdesign.com/)
 - the [Sass](https://sass-lang.com/) language
