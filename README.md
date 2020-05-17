@@ -28,3 +28,7 @@ Luca was already an experienced PHP/WordPress developer and his goal was to jump
 Davide was a SEO expert and moved into the Front-end development with JavaScript and VueJS. I sent him the same readings for Luca, adding:
 
 - [The Little JavaScript book](https://www.valentinog.com/little-javascript) (available in Italian too: [Il Piccolo Libro di JavaScript](https://leanpub.com/piccolo-javascript/))
+
+## For the next ones...
+
+- [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
